@@ -1,4 +1,4 @@
-Python • Pandas • SQL • Jupyter Notebook
+Python • Pandas • SQL • Jupyter Notebook • Tableau
 
 An end-to-end data pipeline analyzing e-commerce sales. Data was cleaned using Python/Pandas, stored and queried using SQLite, and visualized in a Tableau dashboard.
 
