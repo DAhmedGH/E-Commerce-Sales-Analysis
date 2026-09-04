@@ -1,0 +1,5 @@
+SELECT City, SUM(Sales) as Total_Sales
+FROM SalesData
+GROUP BY City
+ORDER BY Total_Sales DESC
+LIMIT 5;
